@@ -2,10 +2,8 @@
 
 Estudiante de **ADSO** (Análisis y Desarrollo de Software).
 
-- 🔭 Actualmente construyendo proyectos con **Node.js, JavaScript, React, Vite, SQLite y MySQL**
-- 🌱 Aprendiendo constantemente sobre buenas prácticas de desarrollo backend y frontend
-- 💬 Pregúntame sobre Node.js, Express, React, bases de datos relacionales o CRUD apps
-- 📫 Puedes contactarme a través de mi perfil de GitHub
+Desarrollador de software en formación, estudiante de ADSO en el SENA, con experiencia en soporte técnico, desarrollo web y construcción de aplicaciones orientadas a resolver problemas reales.
+Me interesa crear software mantenible, diseñar APIs REST, automatizar pruebas y construir aplicaciones web completas.
 
 ---
 
@@ -24,9 +22,10 @@ Estudiante de **ADSO** (Análisis y Desarrollo de Software).
 
 ### 📌 Proyectos destacados
 
-- **[stockflow-crud-flask](https://github.com/miguejpaezb/stockflow-crud-flask)** — Gestión de productos con operaciones CRUD, desarrollado con Flask y MySQL.
-- **[el_campesino_app](https://github.com/miguejpaezb/el_campesino_app)** — Proyecto en Python.
-- **[api-calificaciones-adso](https://github.com/miguejpaezb/api-calificaciones-adso)** — App de registro de calificaciones.
+- **[EggChecker](https://github.com/miguejpaezb/eggchecker)** — Herramienta para gestión de granjas avícolas para campesinos colombianos.
+- **[StockFloW](https://github.com/miguejpaezb/stockflow-crud-flask)** — Gestión de productos con operaciones CRUD, desarrollado con Flask y MySQL.
+- **[El Campesino](https://github.com/miguejpaezb/el_campesino_app)** — Proyecto en Python.
+- **[API Calificaciones ADSO](https://github.com/miguejpaezb/api-calificaciones-adso)** — App de registro de calificaciones.
 
 ---
 
